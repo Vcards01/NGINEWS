@@ -1,4 +1,4 @@
-#NGI NEWS
+# NGI NEWS
 
 A pagina é uma parodia do pagina de noticia de games IGN Brasil
 
